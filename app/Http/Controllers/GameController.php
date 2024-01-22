@@ -70,6 +70,7 @@ class GameController extends Controller
     }
 
 
+    
     // *get 
     public function listGame()
     {
